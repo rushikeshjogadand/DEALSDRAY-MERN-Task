@@ -1,0 +1,49 @@
+
+.nav .links{
+  margin-left: 20px;
+  font-weight: bold;
+  color: rgb(16, 203, 255);
+  font-size: 18px;
+}
+.nav .links:hover{
+  color: rgb(84, 130, 248);
+}
+.links{
+  text-decoration: none;
+  color: black;
+  margin: 0px 30px;
+}
+.navbar-brand {
+  font-weight: bolder;
+}
+#admin-nav .nav{
+  margin-left: 0px;
+}
+#admin-nav .links{
+  text-decoration: none;
+  color: #eee;
+}
+
+
+.navbar-expand-lg{
+  position: fixed;
+  background-color:#131A26;
+}
+
+.adminform{
+  height: 400px;
+  margin-top: 25px;
+  padding: 20px 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.addemp{
+  height: 650px;
+  margin-top: 2px;
+  padding: 20px 30px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#name{
+  margin-left: 500px;
+}
